@@ -48,5 +48,5 @@ Co-founder of **OliveCap Studio**, working on selected web and digital projects.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/fares-awarik
-- GitHub: https://github.com/Al-Thahabi-1
+- GitHub: https://github.com/Farwes-Awarik
 - Email: fares025.rk@gmail.com
