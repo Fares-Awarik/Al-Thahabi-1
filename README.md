@@ -41,12 +41,8 @@ A mobile application for pharmaceutical product management.
 
 ---
 
-## 🤝 Collaboration
-Co-founder of **OliveCap Studio**, working on selected web and digital projects.
-🔗 Live: https://olivecap.net/
----
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/fares-awarik
-- GitHub: https://github.com/Farwes-Awarik
+- GitHub: https://github.com/Fares-Awarik
 - Email: fares025.rk@gmail.com
